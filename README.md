@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [File Names](#file-names)
-* [App Code Structure](#app-code-structure)
+* [Code Organization](#code-organization)
   * [Presentation Layer](#presentation-layer)
 
 ### File Names
@@ -12,7 +12,7 @@ Examples:
 - A file containing a single class `MyClass` is named `my_class.dart`
 - A barrel file containing source file exports is named after a prulalized common ancestor name (if possible) like `models.dart`
 
-## App Code Structure
+## Code Organization
 
 presentation layer,
 business logic,
