@@ -14,5 +14,10 @@ Examples:
 
 ## App Code Structure
 
+presentation layer
+business logic
+model
+packages (where to put things)
+
 ### Presentation Layer
 Top level widgets should have suffix `Page`. Examples are `HomePage`, `LoginPage`. These page widgets usually contain scaffold with an app bar or navigation bar and body.
