@@ -13,6 +13,7 @@ Examples:
 - A barrel file containing source file exports is named after a prulalized common ancestor name (if possible) like `models.dart`
 
 ## Code Organization
+Opinionated part
 
 presentation layer,
 business logic,
