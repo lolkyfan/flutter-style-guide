@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [File Names](#file-names)
-* [App Code Strucuter](#app-code-structure)
+* [App Code Structure](#app-code-structure)
   * [Presentation Layer](#presentation-layer)
 
 ### File Names
